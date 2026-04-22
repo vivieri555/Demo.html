@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(236, 172, 231); 
+
+}
+.welcome {
+    text-align: center;
+   font-size: 10vw;
+   font-family:'Courier New', Courier, monospace;
+}
+.includedSpa {
+    justify-content:center;
+    font-family:'Cambria';
+    font-size: 7vw;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th, td {
+    background-color:hotpink;
+    border-color:blanchedalmond;
+}
